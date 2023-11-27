@@ -40,6 +40,7 @@
     "flowbite": "^1.8.1",
     "flowbite-react": "^0.6.1",
     "framer-motion": "^10.16.4",
+    "hardhat": "^2.19.1",
     "i": "^0.3.7",
     "lokijs": "1.x",
     "material-symbols": "^0.13.0",
